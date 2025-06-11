@@ -1,6 +1,6 @@
 # Photocatalytic Reactor Simulation Framework
 
-Questo repository contiene una pipeline modulare per la simulazione numerica di reattori fotocatalitici, divisa in tre team operativi, coordinati tramite orchestratore e interfacce standard in YAML.
+Questo repository contiene una pipeline modulare per la simulazione numerica di reattori fotocatalitici, divisa in vari team operativi, coordinati tramite orchestratore e interfacce standard in YAML.
 
 ---
 
